@@ -1,2 +1,2 @@
 # CSM182
-UCLA MatLab Coding
+UCLA Dynamic System modeling and Simulations using Simulink
